@@ -10,7 +10,7 @@
     <title>NOTAS</title>
 </head>
 <body>
-    <div id="particles-js"></div>
+    
     <div class="error">
         <span>Datos de ingreso no válidos, inténtalo nuevamente.</span>
     </div>
