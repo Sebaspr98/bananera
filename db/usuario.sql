@@ -29,16 +29,16 @@ CREATE TABLE `notas` (
 --
 
 INSERT INTO `notas` (`id`, `titulo`, `texto`, `id_usuario`) VALUES
-(31, 'pedido 1', '5 Cajas Premiun, 3 Cajas Normales', 3),
-(35, 'pedido 2', '10 Cajas Premiun, 15 Cajas Normales', 3),
-(36, 'pedido 3', '25 Cajas Premiun, 10 Cajas Normales', 4),
-(38, 'pedido 12', '50 Cajas Premiun, 20 Cajas Normales', 4),
-(39, 'pedido 23', '2 Cajas Premiun, 10 Cajas Normales', 4),
-(40, 'pedido 30', '40 Cajas Premiun, 15 Cajas Normales', 4),
-(41, 'pedido 33', '56 Cajas Premiun, 13 Cajas Normales', 4),
-(51, 'pedido 50', '70 Cajas Premiun, 50 Cajas Normales', 3),
-(53, 'pedido 62', '7 Cajas Premiun, 3 Cajas Normales', 3),
-(54, 'pedido 170', '34 Cajas Premiun, 18 Cajas Normales', 1);
+(31, 'pedido 1', '5 Cajas Premiun, 3 Cajas Nacionales', 3),
+(35, 'pedido 2', '10 Cajas Premiun, 15 Cajas Nacionales', 3),
+(36, 'pedido 3', '25 Cajas Premiun, 10 Cajas Nacionales', 4),
+(38, 'pedido 12', '50 Cajas Premiun, 20 Cajas Nacionales', 4),
+(39, 'pedido 23', '2 Cajas Premiun, 10 Cajas Nacionales', 4),
+(40, 'pedido 30', '40 Cajas Premiun, 15 Cajas Nacionales', 4),
+(41, 'pedido 33', '56 Cajas Premiun, 13 Cajas Nacionales', 4),
+(51, 'pedido 50', '70 Cajas Premiun, 50 Cajas Nacionales', 3),
+(53, 'pedido 62', '7 Cajas Premiun, 3 Cajas Nacionales', 3),
+(54, 'pedido 170', '34 Cajas Premiun, 18 Cajas Nacionales', 1);
 
 -- --------------------------------------------------------
 
