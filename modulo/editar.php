@@ -37,7 +37,7 @@ if (isset($_GET['id'])) {
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
     <title>Editar</title>
 </head>
-<body background="../img/fondo3.jpg">
+<body background="../img/fondobanano.jpg">
     <div class="container p-4">
         <div class="row">
             <div class="col-md-4 mx-auto">
